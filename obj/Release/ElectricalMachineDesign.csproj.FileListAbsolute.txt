@@ -1,0 +1,14 @@
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\bin\Release\ElectricalMachineDesign.exe.config
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\bin\Release\ElectricalMachineDesign.exe
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\bin\Release\ElectricalMachineDesign.pdb
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\ElectricalMachineDesign_MarkupCompile.cache
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\ElectricalMachineDesign_MarkupCompile.lref
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\ElectricalMachineDesign.g.resources
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\ElectricalMachineDesign.Properties.Resources.resources
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\ElectricalMachineDesign.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\ElectricalMachineDesign.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\ElectricalMachineDesign.exe
+C:\Users\ADG\source\repos\ElectricalMachineDesign\ElectricalMachineDesign\obj\Release\ElectricalMachineDesign.pdb
