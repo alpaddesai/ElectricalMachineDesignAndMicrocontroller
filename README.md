@@ -7,6 +7,6 @@ Please download the executable in https://github.com/alpaddesai/ElectricalMachin
 
 All images are either custom by Alpa D Desai or a reference name is included.
 
-Most of the images are custom. Copyright protection is in process.
+Most of the images are custom. 
 
 ![image](ElectricalMachineDesign.png)
