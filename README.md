@@ -10,3 +10,6 @@ All images are either custom by Alpa D Desai or a reference name is included.
 Most of the images are custom. 
 
 ![image](ElectricalMachineDesign.png)
+
+## DC Machines
+![image](DCMachines.jpg)
