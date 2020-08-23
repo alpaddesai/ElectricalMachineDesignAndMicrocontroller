@@ -13,3 +13,5 @@ Most of the images are custom.
 
 ## DC Machines
 ![image](DCMachines.jpg)
+
+Further Details on applications reference : https://github.com/alpaddesai/IndustrialRoboticAutomation
