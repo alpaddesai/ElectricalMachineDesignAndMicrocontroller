@@ -14,4 +14,7 @@ Most of the images are custom.
 ## DC Machines
 ![image](DCMachines.jpg)
 
+## C certificate
+![image](C_Certificate.jpg)
+
 Further details on applications reference : https://github.com/alpaddesai/IndustrialRoboticAutomation
