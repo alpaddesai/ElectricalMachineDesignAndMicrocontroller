@@ -17,4 +17,7 @@ Most of the images are custom.
 ## C certificate
 ![image](C_Certificate.jpg)
 
+## Basics of Computing
+![image](BasicsOfComputing.jpg)
+
 Further details on applications reference : https://github.com/alpaddesai/IndustrialRoboticAutomation
