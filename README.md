@@ -20,4 +20,6 @@ Most of the images are custom.
 ## Basics of Computing
 ![image](BasicsOfComputing.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Further details on applications reference : https://github.com/alpaddesai/IndustrialRoboticAutomation
