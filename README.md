@@ -22,4 +22,6 @@ Most of the images are custom.
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Further details on applications reference : https://github.com/alpaddesai/IndustrialRoboticAutomation
