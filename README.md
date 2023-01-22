@@ -14,9 +14,6 @@ Most of the images are custom.
 ## DC Machines
 ![image](DCMachines.jpg)
 
-## C certificate
-![image](C_Certificate.jpg)
-
 ## Basics of Computing
 ![image](BasicsOfComputing.jpg)
 
