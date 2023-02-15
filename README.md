@@ -12,9 +12,6 @@ Most of the images are custom.
 ## DC Machines
 ![image](DCMachines.jpg)
 
-## Basics of Computing
-![image](BasicsOfComputing.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
