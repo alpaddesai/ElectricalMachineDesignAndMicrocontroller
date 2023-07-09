@@ -13,4 +13,4 @@ Most of the images are custom.
 
 ![image](Ethics.jpg)
 
-Further details on applications reference : https://github.com/alpaddesai/Machines and https://github.com/alpaddesai/IndustrialRoboticAutomation
+Further details on applications reference :  https://github.com/alpaddesai/IndustrialRoboticAutomation
